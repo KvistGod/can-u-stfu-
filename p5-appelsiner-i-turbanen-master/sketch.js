@@ -8,7 +8,7 @@ var x = 0;
 var y = 550;
 var rad = 20;
 var xspeed = 4;
-var yspeed = -10;
+var yspeed = -10; 
 var newspeed;
 var grav = 0.1;
 var col = [200,100,0];
